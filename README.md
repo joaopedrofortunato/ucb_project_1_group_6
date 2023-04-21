@@ -127,7 +127,7 @@ p-value = 0.174
 Conclusion: The p-value is greater than .05; therefore we can’t reject the Null Hypothesis
 
 Additional insights can be found in the image below
-![family_comparative_analysis](Images/family comparative_analysis.png)
+![family_comparative_analysis](Images/family_comparative_analysis.png)
 
 ### Is there a correlation between close contact (proximity) with patients and anxiousness?
 
