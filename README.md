@@ -1,5 +1,6 @@
 # The Impact of Covid-19 on Well-being of Healthcare Professionals in India
 
+(The complete and detailed analysis is available in the 'main_notebook' folder.)
 
 ### Description
 A basic analysis of the well-being of healthcare professionals in India during the covid-19 lockdown, and the direct effect of the number of covid cases, recoveries, and deaths. The source of the data is from kaggle: [source 1](https://www.kaggle.com/datasets/shashwatwork/wellbeing-of-healthcare-professionals-in-india) | [source 2](https://www.kaggle.com/datasets/imdevskp/covid19-corona-virus-india-dataset)
