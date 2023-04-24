@@ -130,3 +130,5 @@ dmypy.json
 
 
 .DS_Store
+
+main_notebook/api_keys.py
