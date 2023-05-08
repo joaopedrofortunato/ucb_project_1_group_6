@@ -1,4 +1,4 @@
-# The Impact of Covid-19 on Well-being of Healthcare Professionals in India
+# The Impact of Covid-19 on the Well-being of Healthcare Professionals in India
 
 (The complete and detailed analysis is available in the 'main_notebook' folder.)
 
